@@ -1,0 +1,9 @@
+/home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/bin/Debug/netstandard2.0/RandomGen.deps.json
+/home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/bin/Debug/netstandard2.0/RandomGen.dll
+/home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/bin/Debug/netstandard2.0/RandomGen.pdb
+/home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/obj/Debug/netstandard2.0/RandomGen.csprojAssemblyReference.cache
+/home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/obj/Debug/netstandard2.0/RandomGen.AssemblyInfoInputs.cache
+/home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/obj/Debug/netstandard2.0/RandomGen.AssemblyInfo.cs
+/home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/obj/Debug/netstandard2.0/RandomGen.csproj.CoreCompileInputs.cache
+/home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/obj/Debug/netstandard2.0/RandomGen.dll
+/home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/obj/Debug/netstandard2.0/RandomGen.pdb

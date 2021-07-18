@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "System3DeT/obj": true,
+    "System3DeT/bin": true,
+    ".vscode": true,
+    "RandomGen/bin": true,
+    "RandomGen/obj": true
+  }
+}
