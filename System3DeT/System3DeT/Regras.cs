@@ -1,7 +1,6 @@
 using System3DeT.Enum;
 using System3DeT.Interface;
 
-
 namespace System3DeT
 {
     public class Regras : Rolagem, IRegras

@@ -20,8 +20,6 @@ namespace System3DeT
         public string Nome { get; set; }
         public List<ICaracteristica> Caracteristicas { get; set; }
         public List<IVantagemDesvantagem> VantagemDesvantagens { get; set; }
-        public TipoDeDano AtaqueCorporal { get; set; }
-        public TipoDeDano AtaqueDistancia { get; set; }
         private int _pontosDeVida { get; set; }
         public int PontosDeVida 
         { 

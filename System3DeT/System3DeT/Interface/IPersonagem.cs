@@ -8,8 +8,6 @@ namespace System3DeT.Interface
         string Nome { get; set; }
         List<ICaracteristica> Caracteristicas { get; set; }
         List<IVantagemDesvantagem> VantagemDesvantagens { get; set; }
-        TipoDeDano AtaqueCorporal { get; set; }
-        TipoDeDano AtaqueDistancia { get; set; }
         int PontosDeVida { get; set; }
         int PontosDeMagia { get; set; }
         int PontosDeExperiencia { get; set; }

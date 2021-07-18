@@ -9,16 +9,6 @@ namespace System3DeT.Enum
         PoderDeFogo
     }
 
-    public enum TipoDeDano
-    {
-        Corte,
-        Impacto,
-        Perfuracao,
-        Quimico,
-        Termico,
-        Eletrico
-    }
-
     public enum PontuacaoInicial
     {
         Iniciante = 5,
