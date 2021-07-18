@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "System3DeT/System3DeT/obj": true,
+    ".vscode": true,
+    "System3DeT/System3DeT/bin": true
+  }
+}
