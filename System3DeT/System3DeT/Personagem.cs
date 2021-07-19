@@ -16,7 +16,7 @@ namespace System3DeT
             PontosDeMagia = pontosDeMagia;
             PontosDeExperiencia = pontosDeExperiencia;
         }
-
+        public EscalaDePoder Escala { get; set; }
         public string Nome { get; set; }
         public List<ICaracteristica> Caracteristicas { get; set; }
         public List<IVantagemDesvantagem> VantagemDesvantagens { get; set; }

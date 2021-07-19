@@ -6,6 +6,7 @@ namespace System3DeT.Interface
     public interface IPersonagem
     {
         string Nome { get; set; }
+        EscalaDePoder Escala { get; set; }
         List<ICaracteristica> Caracteristicas { get; set; }
         List<IVantagemDesvantagem> VantagemDesvantagens { get; set; }
         int PontosDeVida { get; set; }

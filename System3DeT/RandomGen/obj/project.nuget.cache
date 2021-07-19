@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "eWZXk/R+9gWIa2qqb4fVr3LptJNCt4Ogzhn7FqzuJHPiRg6bk6QcsB9nm1QY1D6Vx6Ie3aR1tjLvAGHYeFZ66g==",
+  "dgSpecHash": "sZAvUtGyJ02EssuCVJepRF8md7XGmgHRmXD3rzZ5tSqaID+7m4ctCrIWSyUB13z9tdW7IvB/o9rX+eWnKCllGg==",
   "success": true,
-  "projectFilePath": "/home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/RandomGen.csproj",
+  "projectFilePath": "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\3DeT-Core\\System3DeT\\RandomGen\\RandomGen.csproj",
   "expectedPackageFiles": [
-    "/home/rmlehnemann/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
-    "/home/rmlehnemann/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/home/rmlehnemann/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/home/rmlehnemann/.nuget/packages/newtonsoft.json/11.0.1/newtonsoft.json.11.0.1.nupkg.sha512",
-    "/home/rmlehnemann/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
-    "/home/rmlehnemann/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/home/rmlehnemann/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/home/rmlehnemann/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
-    "/home/rmlehnemann/.nuget/packages/system.text.encodings.web/4.6.0/system.text.encodings.web.4.6.0.nupkg.sha512",
-    "/home/rmlehnemann/.nuget/packages/system.text.json/4.6.0/system.text.json.4.6.0.nupkg.sha512",
-    "/home/rmlehnemann/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    "C:\\Users\\edmundo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\edmundo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\edmundo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\edmundo\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\edmundo\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\edmundo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\edmundo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\edmundo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\edmundo\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512",
+    "C:\\Users\\edmundo\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\edmundo\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
   ],
   "logs": []
 }

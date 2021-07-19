@@ -5,5 +5,6 @@ namespace System3DeT.Interface
     {
         bool Teste(IPersonagem personagem, NomeCaracteristica nomeCaracteristica, Dificuldade dificuldade = Dificuldade.Normal);
         int Ataque(IPersonagem atacante, IPersonagem alvo, bool corporal, bool bloqueio);
+        void AplicarDano(IPersonagem atacante, IPersonagem alvo, int dano);
     }
 }

@@ -24,4 +24,12 @@ namespace System3DeT.Enum
         Normal = 0,
         Dificil = -2
     }
+
+    public enum EscalaDePoder
+    {
+        Ningen = 1,
+        Sugoi = 10,
+        Kiodai = 100,
+        Kami = 1000
+    }
 }
