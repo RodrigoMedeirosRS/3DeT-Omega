@@ -7,3 +7,12 @@
 /home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/obj/Debug/netstandard2.0/RandomGen.csproj.CoreCompileInputs.cache
 /home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/obj/Debug/netstandard2.0/RandomGen.dll
 /home/rmlehnemann/Projetos/3DeT-Core/System3DeT/RandomGen/obj/Debug/netstandard2.0/RandomGen.pdb
+C:\Users\edmundo\Documents\Rodrigo\Projetos\3DeT-Core\System3DeT\RandomGen\bin\Debug\netstandard2.0\RandomGen.deps.json
+C:\Users\edmundo\Documents\Rodrigo\Projetos\3DeT-Core\System3DeT\RandomGen\bin\Debug\netstandard2.0\RandomGen.dll
+C:\Users\edmundo\Documents\Rodrigo\Projetos\3DeT-Core\System3DeT\RandomGen\bin\Debug\netstandard2.0\RandomGen.pdb
+C:\Users\edmundo\Documents\Rodrigo\Projetos\3DeT-Core\System3DeT\RandomGen\obj\Debug\netstandard2.0\RandomGen.csproj.AssemblyReference.cache
+C:\Users\edmundo\Documents\Rodrigo\Projetos\3DeT-Core\System3DeT\RandomGen\obj\Debug\netstandard2.0\RandomGen.AssemblyInfoInputs.cache
+C:\Users\edmundo\Documents\Rodrigo\Projetos\3DeT-Core\System3DeT\RandomGen\obj\Debug\netstandard2.0\RandomGen.AssemblyInfo.cs
+C:\Users\edmundo\Documents\Rodrigo\Projetos\3DeT-Core\System3DeT\RandomGen\obj\Debug\netstandard2.0\RandomGen.csproj.CoreCompileInputs.cache
+C:\Users\edmundo\Documents\Rodrigo\Projetos\3DeT-Core\System3DeT\RandomGen\obj\Debug\netstandard2.0\RandomGen.dll
+C:\Users\edmundo\Documents\Rodrigo\Projetos\3DeT-Core\System3DeT\RandomGen\obj\Debug\netstandard2.0\RandomGen.pdb

@@ -6,9 +6,14 @@ namespace System3DeT
 {
     public class Regras : Rolagem, IRegras
     {
-        public virtual bool Teste(IPersonagem personagem, NomeCaracteristica nomeCaracteristica, Dificuldade dificuldade = Dificuldade.Normal)
+        public virtual bool Teste(IPersonagem personagem, NomeCaracteristica nomeCaracteristica, Dificuldade dificuldade = Dificuldade.Normal, int modificadoresAdicionais = 0)
         {
-            return RolarD6(1, (int)dificuldade) <= personagem.ObterCaracteristica(nomeCaracteristica);
+            var rolagem = RolarD6(1);
+            if (rolagem == 1)
+                return true;
+            else if (rolagem == 6)
+                return false;
+            return rolagem <= personagem.ObterCaracteristica(nomeCaracteristica) - (int)dificuldade + modificadoresAdicionais;
         }
         public virtual int Ataque(IPersonagem atacante, IPersonagem alvo, bool corporal, bool bloqueio)
         {

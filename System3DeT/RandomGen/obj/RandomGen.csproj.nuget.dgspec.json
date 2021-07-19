@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\3DeT-Core\\System3DeT\\RandomGen\\RandomGen.csproj": {}
+    "C:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\3DeT-Core\\System3DeT\\RandomGen\\RandomGen.csproj": {}
   },
   "projects": {
-    "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\3DeT-Core\\System3DeT\\RandomGen\\RandomGen.csproj": {
+    "C:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\3DeT-Core\\System3DeT\\RandomGen\\RandomGen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\3DeT-Core\\System3DeT\\RandomGen\\RandomGen.csproj",
+        "projectUniqueName": "C:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\3DeT-Core\\System3DeT\\RandomGen\\RandomGen.csproj",
         "projectName": "RandomGen",
-        "projectPath": "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\3DeT-Core\\System3DeT\\RandomGen\\RandomGen.csproj",
+        "projectPath": "C:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\3DeT-Core\\System3DeT\\RandomGen\\RandomGen.csproj",
         "packagesPath": "C:\\Users\\edmundo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\3DeT-Core\\System3DeT\\RandomGen\\obj\\",
+        "outputPath": "C:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\3DeT-Core\\System3DeT\\RandomGen\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
