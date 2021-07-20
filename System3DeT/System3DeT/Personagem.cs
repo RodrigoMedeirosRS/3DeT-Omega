@@ -48,7 +48,7 @@ namespace System3DeT
             }
             set
             {
-                var maximo = ObterCaracteristica(NomeCaracteristica.Resistencia) * 2;
+                var maximo = ObterCaracteristica(NomeCaracteristica.Habilidade) * 2;
 
                 if (_pontosDeMagia + value < 0)
                     _pontosDeMagia = 0;
