@@ -1,4 +1,4 @@
-namespace System3DeT.Enum
+namespace System.Omega.Enum
 {
     public enum NomeCaracteristica
     {

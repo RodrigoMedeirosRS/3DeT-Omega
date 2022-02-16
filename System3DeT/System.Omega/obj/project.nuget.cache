@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DjFYq7W/S5qaU64xpB9EA1ObASrXimG8q9LbSQnOQuK0oQIHmZYjygrrib/LSGG4eKRY2T+kMqxqHVIar6ZetA==",
+  "dgSpecHash": "ndpaO68/ikVq5wQxw78hgc2C9Ms0B/SG4aI2nf5fF1NrSZ5Nl4qGCGFzt3bXFKju4con7gJ9vnHO8aeLChufng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\Omega\\System3DeT\\RandomGen\\RandomGen.csproj",
+  "projectFilePath": "C:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\Omega\\System3DeT\\System.Omega\\System.Omega.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edmundo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\edmundo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\edmundo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\edmundo\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
     "C:\\Users\\edmundo\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\edmundo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\edmundo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

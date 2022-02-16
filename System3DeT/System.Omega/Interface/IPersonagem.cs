@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using System3DeT.Enum;
+using System.Omega.Enum;
 
-namespace System3DeT.Interface
+namespace System.Omega.Interface
 {
     public interface IPersonagem
     {

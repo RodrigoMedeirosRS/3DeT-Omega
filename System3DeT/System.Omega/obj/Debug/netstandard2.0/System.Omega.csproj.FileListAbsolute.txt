@@ -1,0 +1,13 @@
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\bin\Debug\netstandard2.0\System.Omega.deps.json
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\bin\Debug\netstandard2.0\System.Omega.dll
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\bin\Debug\netstandard2.0\System.Omega.pdb
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\bin\Debug\netstandard2.0\RandomGen.dll
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\bin\Debug\netstandard2.0\RandomGen.pdb
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\obj\Debug\netstandard2.0\System.Omega.csproj.AssemblyReference.cache
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\obj\Debug\netstandard2.0\System.Omega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\obj\Debug\netstandard2.0\System.Omega.AssemblyInfoInputs.cache
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\obj\Debug\netstandard2.0\System.Omega.AssemblyInfo.cs
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\obj\Debug\netstandard2.0\System.Omega.csproj.CoreCompileInputs.cache
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\obj\Debug\netstandard2.0\System.Omega.csproj.CopyComplete
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\obj\Debug\netstandard2.0\System.Omega.dll
+C:\Users\edmundo\Documents\Rodrigo\Projetos\Omega\System3DeT\System.Omega\obj\Debug\netstandard2.0\System.Omega.pdb

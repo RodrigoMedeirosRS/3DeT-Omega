@@ -1,7 +1,7 @@
 using System;
-using System3DeT.Interface;
+using System.Omega.Interface;
 
-namespace System3DeT
+namespace System.Omega
 {
     public class VantagemDesvantagem : IVantagemDesvantagem
     {

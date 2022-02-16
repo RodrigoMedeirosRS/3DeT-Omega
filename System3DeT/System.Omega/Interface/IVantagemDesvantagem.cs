@@ -1,4 +1,4 @@
-namespace System3DeT.Interface
+namespace System.Omega.Interface
 {
     public interface IVantagemDesvantagem
     {

@@ -1,9 +1,9 @@
 using System.Linq;
 using System.Collections.Generic;
-using System3DeT.Enum;
-using System3DeT.Interface;
+using System.Omega.Enum;
+using System.Omega.Interface;
 
-namespace System3DeT
+namespace System.Omega
 {
     public class Personagem : IPersonagem
     {

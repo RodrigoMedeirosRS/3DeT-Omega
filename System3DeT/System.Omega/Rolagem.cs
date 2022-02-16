@@ -1,6 +1,6 @@
 using RandomGen;
 
-namespace System3DeT
+namespace System.Omega
 {
     public abstract class Rolagem
     {
