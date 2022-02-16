@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DjFYq7W/S5qaU64xpB9EA1ObASrXimG8q9LbSQnOQuK0oQIHmZYjygrrib/LSGG4eKRY2T+kMqxqHVIar6ZetA==",
+  "dgSpecHash": "LBz8AOH/QLsVr69PCwcJMzBDwMkh7cKW4IyjXrswd2FWS0XBbhlkRSpzhpeXFB/X2uSE8cupfODCxySJwJdUrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\Omega\\System3DeT\\RandomGen\\RandomGen.csproj",
+  "projectFilePath": "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\Omega\\System.Omega\\RandomGen\\RandomGen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edmundo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\edmundo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

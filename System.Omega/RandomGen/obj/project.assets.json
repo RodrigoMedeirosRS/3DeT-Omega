@@ -550,11 +550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\Omega\\System3DeT\\RandomGen\\RandomGen.csproj",
+      "projectUniqueName": "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\Omega\\System.Omega\\RandomGen\\RandomGen.csproj",
       "projectName": "RandomGen",
-      "projectPath": "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\Omega\\System3DeT\\RandomGen\\RandomGen.csproj",
+      "projectPath": "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\Omega\\System.Omega\\RandomGen\\RandomGen.csproj",
       "packagesPath": "C:\\Users\\edmundo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\Omega\\System3DeT\\RandomGen\\obj\\",
+      "outputPath": "c:\\Users\\edmundo\\Documents\\Rodrigo\\Projetos\\Omega\\System.Omega\\RandomGen\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
