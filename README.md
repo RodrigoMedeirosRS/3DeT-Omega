@@ -16,5 +16,7 @@ Não há lista de armas nem de armaduras, o Omega assim como o 3D&T jamais possu
 
 3D&T Alpha 2015 pag 1d+11, ISBN: 978858913460-6.
 
+Declaro que o Omega RPG é distribuído sob a mesma licença do 3D&T Alpha, com a diferença que você também é autorizado a utilizar o nome Omega RPG em todos os seus jogos, livros ou títulos. Toda a parte programável em C# é distribuída sob a licença permissiva MIT podendo ser utilizada em seus jogos e produtos livremente.
+
 ## Baixe o PDF aqui!
 https://github.com/RodrigoMedeirosRS/Omega/raw/main/Omega.pdf
