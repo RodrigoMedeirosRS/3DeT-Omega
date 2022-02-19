@@ -13,3 +13,6 @@ No Omega RPG não existe sistema de magias, os magos estão mais inspirados nos 
 **“Você é autorizado a usar as regras de 3D&T em seus próprios jogos, livros ou títulos, mas não os elementos do mundo de TORMENTA. Para estes, você precisa da autorização legal de seus autores.“**
 
 3D&T Alpha 2015 pag 1d+11, ISBN: 978858913460-6.
+
+## Baixe o PDF aqui!
+https://github.com/RodrigoMedeirosRS/Omega/raw/main/Omega.pdf
