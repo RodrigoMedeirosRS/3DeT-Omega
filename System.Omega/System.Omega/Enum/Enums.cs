@@ -18,6 +18,13 @@ namespace System.Omega.Enum
         Super = 15
     }
 
+    public enum Condicao
+    {
+        Desvantagem = -1,
+        Normal = 0,
+        Vantagem = 1
+    }
+
     public enum Dificuldade
     {
         Facil = 2,

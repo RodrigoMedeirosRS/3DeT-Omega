@@ -6,15 +6,16 @@ namespace System.Omega
 {
     public class Regras : Rolagem, IRegras
     {
-        public virtual bool Teste(IPersonagem personagem, NomeCaracteristica nomeCaracteristica, Dificuldade dificuldade = Dificuldade.Normal, int modificadoresAdicionais = 0)
+        public virtual bool Teste(IPersonagem personagem, NomeCaracteristica nomeCaracteristica, Condicao condicao = Condicao.Normal, Dificuldade dificuldade = Dificuldade.Normal, int modificadoresAdicionais = 0)
         {
-            var rolagem = RolarD6(1);
+            var rolagem = RolarD6ComCondicao(condicao);
             if (rolagem == 1)
                 return true;
             else if (rolagem == 6)
                 return false;
             return rolagem <= personagem.ObterCaracteristica(nomeCaracteristica) - (int)dificuldade + modificadoresAdicionais;
         }
+        
         public virtual int Ataque(IPersonagem atacante, IPersonagem alvo, bool corporal, bool bloqueio)
         {
             var modificadorAtaque = corporal ? atacante.ObterCaracteristica(NomeCaracteristica.Forca) : atacante.ObterCaracteristica(NomeCaracteristica.PoderDeFogo);
