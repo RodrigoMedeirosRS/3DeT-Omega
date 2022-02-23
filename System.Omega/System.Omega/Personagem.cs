@@ -7,9 +7,10 @@ namespace System.Omega
 {
     public class Personagem : IPersonagem
     {
-        public Personagem(string nome, List<ICaracteristica> caracteristicas, List<IVantagemDesvantagem> vantagemDesvantagens, int pontosDeVida = 99, int pontosDeMagia = 99, int pontosDeExperiencia = 0)
+        public Personagem(string nome, TipoSanguineo tipoSanguineo, List<ICaracteristica> caracteristicas, List<IVantagemDesvantagem> vantagemDesvantagens, int pontosDeVida = 99, int pontosDeMagia = 99, int pontosDeExperiencia = 0)
         {
             Nome = nome;
+            TipoSanguineo = tipoSanguineo;
             Caracteristicas = caracteristicas;
             VantagemDesvantagens = vantagemDesvantagens;
             PontosDeVida = pontosDeVida;
@@ -18,6 +19,7 @@ namespace System.Omega
         }
         public EscalaDePoder Escala { get; set; }
         public string Nome { get; set; }
+        public TipoSanguineo TipoSanguineo { get; set; }
         public List<ICaracteristica> Caracteristicas { get; set; }
         public List<IVantagemDesvantagem> VantagemDesvantagens { get; set; }
         private int _pontosDeVida { get; set; }

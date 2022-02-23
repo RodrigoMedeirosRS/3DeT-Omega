@@ -32,4 +32,12 @@ namespace System.Omega.Enum
         Kiodai = 100,
         Kami = 1000
     }
+
+    public enum TipoSanguineo
+    {
+        A,
+        B,
+        AB,
+        O
+    }
 }
