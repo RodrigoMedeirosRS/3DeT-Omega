@@ -78,7 +78,7 @@ namespace System.Omega
 
         public int ObterTotalDePontos()
         {
-            return ObterTotalDePontosCaracteristicas();
+            return ObterTotalDePontosCaracteristicas() + ObterTotalDePontosVantagensDesvantagens();
         }
 
         private int ObterTotalDePontosVantagensDesvantagens()
